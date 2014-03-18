@@ -1,4 +1,4 @@
-# Opearting Systems 537
+# Operating Systems 537
 Here is a collection of all my classwork for OS537, taken in Fall 2011 with Remzi Arpaci-Dusseau
 http://pages.cs.wisc.edu/~remzi/Classes/537/Fall2011/
 
